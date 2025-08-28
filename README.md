@@ -27,25 +27,25 @@ The project consists of **5 relational tables**:
 ## 🔍 Key Analytical Queries & Insights
 
 ### 1. Most Overloaded Department
-➡️ **Insight:** *Surgery has the highest admissions → Needs additional resources*
+➡️ **Insight:** *Surgery has the highest admissions *
 
 ### 2. Average Stay Duration by Department
-➡️ **Insight:** *Gynecology & Radiology → Longest patient stays → Investigate delays or optimize workflows*
+➡️ **Insight:** *Gynecology & Radiology → Longest patient stays → Investigate delays or Adjust more doctors in those departments*
 
 ### 3. Most Common Treatments
 ➡️ **Insight:** *MRI Scans are the most frequently performed treatment → More machines/staff may be required*
 
 ### 4. Revenue by Department
-➡️ **Insight:** *General Medicine generates the highest revenue → Potential for expansion*
+➡️ **Insight:** *General Medicine generates the highest revenue*
 
 ### 5. Highest Paying Patients
-➡️ **Insight:** *Patient 97 paid ₹2,16,563 (highest bill) → Build premium patient packages*
+➡️ **Insight:** *Patient 97 paid the highest bill with ₹2,16,563 *
 
 ### 6. Monthly Revenue Trend
 ➡️ **Insight:** *Clear seasonal trends observed → Staffing & inventory planning can be adjusted*
 
 ### 7. Peak Revenue Months
-➡️ **Insight:** *April had the highest revenue → Prepare additional resources during peak months*
+➡️ **Insight:** *April had the highest revenue → Prepare additional resources during April Month*
 
 
 
