@@ -1,0 +1,14 @@
+TreatmentID,TreatmentName,Cost
+1,Heart Bypass Surgery,95535
+2,Appendectomy,20632
+3,Joint Replacement,74412
+4,Normal Delivery,27186
+5,C-Section,45054
+6,MRI Scan,4701
+7,CT Scan,3916
+8,Ultrasound,1784
+9,X-Ray,781
+10,Blood Test,257
+11,ECG,500
+12,Physiotherapy Session,535
+13,Counseling Session,1172

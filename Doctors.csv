@@ -1,0 +1,31 @@
+DoctorID,Name,Specialty,Department,Phone
+1,Dr_1,Gynecologist,Gynecology,9.188E+11
+2,Dr_2,Surgeon,Surgery,9.17027E+11
+3,Dr_3,General Physician,General Medicine,9.17988E+11
+4,Dr_4,Orthopedic,Orthopedics,9.17648E+11
+5,Dr_5,Surgeon,Surgery,9.19155E+11
+6,Dr_6,Surgeon,Surgery,9.18048E+11
+7,Dr_7,Surgeon,Surgery,9.18099E+11
+8,Dr_8,Orthopedic,Orthopedics,9.18397E+11
+9,Dr_9,General Physician,General Medicine,9.17066E+11
+10,Dr_10,Radiologist,Radiology,9.18096E+11
+11,Dr_11,Orthopedic,Orthopedics,9.17835E+11
+12,Dr_12,General Physician,General Medicine,9.19091E+11
+13,Dr_13,Surgeon,Surgery,9.18741E+11
+14,Dr_14,General Physician,General Medicine,9.17144E+11
+15,Dr_15,Orthopedic,Orthopedics,9.17867E+11
+16,Dr_16,Orthopedic,Orthopedics,9.19349E+11
+17,Dr_17,Radiologist,Radiology,9.19266E+11
+18,Dr_18,Gynecologist,Gynecology,9.18487E+11
+19,Dr_19,Radiologist,Radiology,9.18792E+11
+20,Dr_20,Surgeon,Surgery,9.18479E+11
+21,Dr_21,General Physician,General Medicine,9.17081E+11
+22,Dr_22,Neurologist,Neurology,9.19272E+11
+23,Dr_23,Neurologist,Neurology,9.17234E+11
+24,Dr_24,Orthopedic,Orthopedics,9.1821E+11
+25,Dr_25,General Physician,General Medicine,9.18873E+11
+26,Dr_26,Cardiologist,Cardiology,9.19303E+11
+27,Dr_27,Neurologist,Neurology,9.18928E+11
+28,Dr_28,Radiologist,Radiology,9.18377E+11
+29,Dr_29,Orthopedic,Orthopedics,9.19332E+11
+30,Dr_30,Cardiologist,Cardiology,9.17459E+11
